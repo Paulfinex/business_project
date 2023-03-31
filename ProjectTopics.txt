@@ -1,0 +1,16 @@
+PROPOSED BY PROFESSOR:
+  Development of Chatbot Service - Very Very easy, also for benchmarking
+  
+  Search Engine - Very easy also for benchmarking but also half-done - https://dylancastillo.co/ai-search-engine-fastapi-qdrant-chatgpt/
+
+  Summarization of contract clauses - Interesting, classic method to be defined
+
+  Question and Answers - Bot on askReddit with user feedbacks live gathered
+
+  Automation of emails - Service online of automated mailing answering - https://10minutemail.com/ to send mails - Very Very easy
+
+  Automatic text translation - 10 lines of code. Maybe too generic
+
+
+OTHERS:
+  GAN that given the prompt generates clothings images - Interesting but easy to assess - HARD
