@@ -1,6 +1,4 @@
 PROPOSED BY PROFESSOR:
-  Development of Chatbot Service - Very Very easy, also for benchmarking
-  
   Search Engine - Very easy also for benchmarking but also half-done - https://dylancastillo.co/ai-search-engine-fastapi-qdrant-chatgpt/
 
   Summarization of contract clauses - Interesting, classic method to be defined
